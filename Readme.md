@@ -1,4 +1,4 @@
-# Awsome Ai channels and groups in Telegram in persian or english 
+# Awesome Ai channels and groups in Telegram in persian or english 
 
 this list is not in any order 
 
