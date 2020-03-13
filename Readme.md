@@ -2,53 +2,51 @@
 
 this list is not in any order 
 
-1. https://t.me/pythonicAI pythonic ai 334 عضو
+- https://t.me/DeepLearningAIExperts DLex: Deep learning Experts - Group - members: 5K
 
-2. https://t.me/joinchat/BHATx0vg_qll0vz24O8hWA گروه یادگیری ماشین 354 عضو
+- https://t.me/pythonicAI "Pythonic ai"  -  Channel  -  members: 334  
 
-3. https://t.me/Machine_learn ml books and paper 5k
+- https://t.me/GoogleColabGroup GoogleColab - Group -  member: 600 
 
-4. https://t.me/NLPExperts nlp gp 1.6k
+- https://t.me/cvision Tensorflow (News, Articles, Tensorflow) - Channel - members: 4K
 
-5. https://t.me/ArtificialIntelligenceArticles Ai Articles 3K
+- https://t.me/DeepLearningGroup Deep learning | Python - Group  - members: 1.2k
 
-6. https://t.me/GoogleColabGroup gp 403 members 
+- https://t.me/cooldatascience Ai + Big Data - Channel - members: 80 
 
-7. https://t.me/digital_image_processing image processing books with pdf 10k
+- https://t.me/ml_in_science1 Ml in Science - Group - members: 1.8k 
 
-8. https://t.me/DeepLearningAIExperts (gp) 5K
+- https://t.me/Machine_learn "Machine Learning books and paper" - Channel - members: 5k
 
-9. https://t.me/cooldatascience cool data science 21 
+- https://t.me/NLPExperts Dlex:NLP - Groupe - members: 1.6k
 
-10. https://t.me/DeepLearningGroup (gp) 535members
+- https://t.me/ArtificialIntelligenceArticles Ai Articles - Channel - members: 3K
 
-11. https://t.me/ai_python ai python ml neuroscience 17K
+- https://t.me/digital_image_processing image processing books pdf - Channel - members: 10k
 
-12. https://t.me/ailib ai papers with translated abstracts 719 members
+- https://t.me/ai_python Dlex: Ai Python - Channel - members: 18K
 
-13. https://t.me/AI_Events ai enevts 1 k
+- https://t.me/ailib Ai Library (papers pdf) - Channel - member: 1.3K
 
-14. https://t.me/joinchat/CuFqkRQSxRy5M_6KxhKrCA deep intelligence talk (en) 2.2 K
+- https://t.me/AI_Events Ai Enevts (papers, news, etc.) - Channel - members: 1k
 
-15. https://t.me/DeepLearningML (en)(gp)1.7k
+- https://t.me/joinchat/Bz2T90t-VFzqaeG791j7YQ Deep Intelligence Talk (en) - Group - 2.2 K
 
-16. https://t.me/dataanalysis datascience 4K
+- https://t.me/DeepLearningML DeepLearningML (en) - Group - members: 2k
 
-17. https://t.me/HomeAI news from ai (fa) 8K
+- https://t.me/dataanalysis Datascience - Channel - members: 4K
 
-18. https://t.me/ml_in_science ml news and articles 761 members 
+- https://t.me/HomeAI news from ai (fa) 8K
 
-19. https://t.me/ml_in_science1 (gp) 1.8k 
+- https://t.me/ml_in_science ml news and articles 761 members 
 
-20. https://t.me/AI_Jokes ai jokes and memes 280 members
+- https://t.me/AI_Jokes ai jokes and memes 280 members
 
-21. https://t.me/dataacademyir  datasets and papers from dataacademy.ir  1K
+- https://t.me/dataacademyir  datasets and papers from dataacademy.ir  1K
 
-22. https://t.me/data_io channel for dataio.ir a virgool.io weblog 1.5k 
+- https://t.me/data_io channel for dataio.ir a virgool.io weblog 1.5k 
 
-23. https://t.me/cvision news, articles, tensorflow 4K
+- https://t.me/text_mining tools and api for nlp from text-mining.ir 160 members 
 
-24. https://t.me/text_mining tools and api for nlp from text-mining.ir 160 members 
-
-25. https://t.me/VakavicAi nlp startup 300members
+- https://t.me/VakavicAi nlp startup 300members
 
