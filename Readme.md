@@ -47,3 +47,5 @@ this list is not in any order
 - https://t.me/data_io dataio.ir a virgool.io blog - Channel - members: 1.5k 
 
 - https://t.me/text_mining tools and api for nlp from text-mining.ir - Channel - members: 160 members 
+
+- https://t.me/Ai_Tv Ai_tv Ai/Ar/IoT - Channel - members: 6.5K
