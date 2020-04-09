@@ -6,7 +6,9 @@ this list is not in any order
 
 - https://t.me/pythonicAI "Pythonic ai"  -  Channel  -  members: 334  
 
-- https://t.me/GoogleColabGroup GoogleColab - Group -  member: 600 
+- https://t.me/GoogleColabGroup GoogleColab - Group -  members: 600 
+
+- https://t.me/tf2keras Tensorflow and Keras Talk - Group - members: 200
 
 - https://t.me/cvision Tensorflow (News, Articles, Tensorflow) - Channel - members: 4K
 
