@@ -14,7 +14,9 @@ this list is not in any order
 
 - https://t.me/DeepLearningGroup Deep learning | Python - Group  - members: 1.2k
 
-- https://t.me/cooldatascience Ai + Big Data - Channel - members: 80 
+- https://t.me/cooldatascience Ai + Big Data - Channel - members: 120
+
+- https://t.me/Mr_IE Mr Industrial Engineering Academy (Datascience) - Channel - members: 5.5K
 
 - https://t.me/ml_in_science Ml in Science - Group - members: 1.8k 
 
