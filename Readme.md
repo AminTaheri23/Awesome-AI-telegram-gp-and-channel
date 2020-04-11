@@ -16,6 +16,8 @@ this list is not in any order
 
 - https://t.me/cooldatascience Ai + Big Data - Channel - members: 120
 
+- https://t.me/pytens Deep Learning Accomplishments - Channel - members: 1.3K
+
 - https://t.me/Mr_IE Mr Industrial Engineering Academy (Datascience) - Channel - members: 5.5K
 
 - https://t.me/Recommender_System Recommender system - Channel - members: 550
