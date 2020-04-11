@@ -1,6 +1,4 @@
-# Awesome Ai channels and groups in Telegram in persian or english 
-
-this list is not in any order 
+# Awesome AI channels and groups in Telegram in Persian/English 
 
 - https://t.me/DeepLearningAIExperts DLex: Deep learning Experts - Group - members: 5K
 
