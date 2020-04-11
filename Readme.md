@@ -18,6 +18,8 @@ this list is not in any order
 
 - https://t.me/Mr_IE Mr Industrial Engineering Academy (Datascience) - Channel - members: 5.5K
 
+- https://t.me/Recommender_System Recommender system - Channel - members: 550
+
 - https://t.me/ml_in_science Ml in Science - Group - members: 1.8k 
 
 - https://t.me/Machine_learn "Machine Learning books and paper" - Channel - members: 5k
