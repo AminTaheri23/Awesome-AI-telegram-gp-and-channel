@@ -2,7 +2,7 @@
 
 - https://t.me/DeepLearningAIExperts DLex: Deep learning Experts - Group - members: 5K
 
-- https://t.me/pythonicAI "Pythonic ai"  -  Channel  -  members: 334  
+- https://t.me/pythonicAI "Pythonic ai"  -  Channel  -  members: 534  
 
 - https://t.me/GoogleColabGroup GoogleColab - Group -  members: 600 
 
@@ -12,7 +12,11 @@
 
 - https://t.me/DeepLearningGroup Deep learning | Python - Group  - members: 1.2k
 
-- https://t.me/cooldatascience Ai + Big Data - Channel - members: 120
+- https://t.me/AIandBigdata Ai + Big Data - Channel - members: 150
+
+- https://t.me/joinchat/BhIXCD3_zWP798S2NxOncQ Deep Learning  - Group - members: 3K 
+
+- https://t.me/irandeeplearning Deep Learning - Channel - members: 4K
 
 - https://t.me/pytens Deep Learning Accomplishments - Channel - members: 1.3K
 
