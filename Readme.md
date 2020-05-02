@@ -59,3 +59,5 @@
 - https://t.me/text_mining tools and api for nlp from text-mining.ir - Channel - members: 160 members 
 
 - https://t.me/Ai_Tv Ai_tv Ai/Ar/IoT - Channel - members: 6.5K
+
+- https://t.me/MVIP2020gp MVIP2020 UNofficial - Group - members: 50 
